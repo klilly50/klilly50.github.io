@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my work at the SIAM Nonlinear Waves and Coherent Structures Conference in Baltimore Maryland in June. 
+I will be presenting my work at the SIAM Nonlinear Waves and Coherent Structures Conference in Baltimore, Maryland in June. 
