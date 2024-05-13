@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of non-research related projects I've worked on
 nav: true
 nav_order: 3
-display_categories: [class, fun]
+display_categories: [class]
 horizontal: false
 ---
 
