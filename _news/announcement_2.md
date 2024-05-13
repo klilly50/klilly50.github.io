@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my Master of Science degree in Applied Mathematics from the University of Washington
+I received my Master of Science degree in Applied Mathematics from the University of Washington.
