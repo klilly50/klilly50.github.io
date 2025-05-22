@@ -9,7 +9,7 @@ profile:
   image: KaitlynnLilly_Headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: LEW 111</p>
+    <p>Office: LEW 214</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
