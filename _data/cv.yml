@@ -1,95 +1,95 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Kaitlynn Lilly
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Kaitlynn Lilly
 
-- title: Education
-  type: time_table
-  contents:
-    - degree: PhD in Applied Mathematics
-      institution: University of Washington, Seattle, WA
-      year: 2022-Present
-      description:
-        - PhD Candidate in Applied Math
-        - Advised by Tom Trogdon
-        
-    - degree: MS in Applied Mathematics
-      institution: University of Washington, Seattle, WA
-      year: 2022-2023
-      description:
-        - MS in Applied Mathematics
-
-    - degree: BS in Mathematics and Physics 
-      institution: University of Maryland, Baltimore County, Baltimore, MD
-      year: 2018-2022
-      description:
-        - BS in Mathematics and Physics
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Researcher
-      institution: University of Washington
-      year: 2022-Present
-      description:
-        - I develop methods to approximate solutions to partial differential equations.
-
-    - title: Radio Frequency Engineer
-      institution: Johns Hopkins University Applied Physics Laboratory
-      year: 2022
-      description:
-        - Created and implemented a model and simulation of very low frequency gravity waves in Python
-        - Developed a Python script to implement an extended Hamming linear feedback shift register encoder and decoder
-        - Optimized mainenance schedules for VLF transmitters
-
-# - title: Open Source Projects
+# - title: Education
 #   type: time_table
 #   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#     - degree: PhD in Applied Mathematics
+#       institution: University of Washington, Seattle, WA
+#       year: 2022-Present
+#       description:
+#         - PhD Candidate in Applied Math
+#         - Advised by Tom Trogdon
+        
+#     - degree: MS in Applied Mathematics
+#       institution: University of Washington, Seattle, WA
+#       year: 2022-2023
+#       description:
+#         - MS in Applied Mathematics
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - NSF Graduate Research Fellow
-        - Achievement Rewards for College Scientists Scholar
-        - PHi Beta Kappa Honor Society
+#     - degree: BS in Mathematics and Physics 
+#       institution: University of Maryland, Baltimore County, Baltimore, MD
+#       year: 2018-2022
+#       description:
+#         - BS in Mathematics and Physics
 
-    - year: 2021
-      items:
-        - Barry M. Goldwater Scholar
-        - Ronald M. Shapiro Excellence in Mentoring Award
-        - Freeman A. Hrabowski President's Advisory Council Scholarship Award
-        - Poster session honorable mention at JMM
-
-    - year: 2020
-      items:
-        - First prize physics oral presentation at Emerging Researchers National Conference
-        - Poster session honorable mention at UMD-NIST Conference for Undergraduate Women in Physics
-
-    - year: 2018
-      items:
-        - Meyerhoff Scholar, M30 Cohort
-
-# - title: Academic Interests
-#   type: nested_list
+# - title: Experience
+#   type: time_table
 #   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+#     - title: Graduate Student Researcher
+#       institution: University of Washington
+#       year: 2022-Present
+#       description:
+#         - I develop methods to approximate solutions to partial differential equations.
 
-- title: Other Interests
-  type: list
-  contents:
-    - Aerial yoga
-    - Snowboarding
-    - My cat, Dingus
+#     - title: Radio Frequency Engineer
+#       institution: Johns Hopkins University Applied Physics Laboratory
+#       year: 2022
+#       description:
+#         - Created and implemented a model and simulation of very low frequency gravity waves in Python
+#         - Developed a Python script to implement an extended Hamming linear feedback shift register encoder and decoder
+#         - Optimized mainenance schedules for VLF transmitters
+
+# # - title: Open Source Projects
+# #   type: time_table
+# #   contents:
+# #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+# #       year: 2015-now
+# #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items:
+#         - NSF Graduate Research Fellow
+#         - Achievement Rewards for College Scientists Scholar
+#         - PHi Beta Kappa Honor Society
+
+#     - year: 2021
+#       items:
+#         - Barry M. Goldwater Scholar
+#         - Ronald M. Shapiro Excellence in Mentoring Award
+#         - Freeman A. Hrabowski President's Advisory Council Scholarship Award
+#         - Poster session honorable mention at JMM
+
+#     - year: 2020
+#       items:
+#         - First prize physics oral presentation at Emerging Researchers National Conference
+#         - Poster session honorable mention at UMD-NIST Conference for Undergraduate Women in Physics
+
+#     - year: 2018
+#       items:
+#         - Meyerhoff Scholar, M30 Cohort
+
+# # - title: Academic Interests
+# #   type: nested_list
+# #   contents:
+# #     - title: Topic 1.
+# #       items:
+# #         - Description 1.
+# #         - Description 2.
+# #     - title: Topic 2.
+# #       items:
+# #         - Description 1.
+# #         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - Aerial yoga
+#     - Snowboarding
+#     - My cat, Dingus
