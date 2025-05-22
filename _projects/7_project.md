@@ -2,7 +2,7 @@
 layout: page
 title: Seattle Library Checkouts
 description: Predictive insights into library book checkouts
-img: assets/img/590Pic.png
+img: assets/img/ErdosPic.png
 importance: 3
 category: class
 ---
